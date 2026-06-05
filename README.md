@@ -151,18 +151,6 @@ python scripts/check_environment.py
 - Patient data and model checkpoints are intentionally excluded from the repository.
 - DICOM, NIfTI, and checkpoint files are ignored by `.gitignore` to prevent accidental upload of clinical data or large binary files.
 
-## Citation
-
-If you use this code, please cite:
-
-```bibtex
-@inproceedings{jo2026robust,
-  title     = {Robust Tooth Segmentation Under Orthodontic CBCT: A Metal Artifact-Aware Approach},
-  author    = {Jo, SeungKwan and Park, Jeonglok and Kim, So Hyun and Chung, Minyoung},
-  booktitle = {International Conference on Medical Image Computing and Computer-Assisted Intervention},
-  year      = {2026}
-}
-```
 
 ## Contact
 
