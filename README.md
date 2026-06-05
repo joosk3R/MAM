@@ -1,11 +1,11 @@
 # MAM: Metal Artifact-Aware Tooth Segmentation
-
-Official implementation of the MICCAI 2026 paper:
-
-**Robust Tooth Segmentation Under Orthodontic CBCT: A Metal Artifact-Aware Approach**  
-SeungKwan Jo, Jeonglok Park, So Hyun Kim, and Minyoung Chung
-
 This repository provides the inference code for a metal artifact-aware two-stage framework for robust tooth detection and instance segmentation in orthodontic CBCT.
+
+## screenshot
+
+<img width="2489" height="482" alt="Image" src="https://github.com/user-attachments/assets/fc2738d0-616e-49f0-800b-74c909a30906" />
+<img width="2459" height="1073" alt="Image" src="https://github.com/user-attachments/assets/d307320e-7838-4d82-845a-24aac8fd858e" />
+<img width="2447" height="1075" alt="Image" src="https://github.com/user-attachments/assets/8d5e966d-34e9-4818-9306-a0909d925bd0" />
 
 ## Overview
 
